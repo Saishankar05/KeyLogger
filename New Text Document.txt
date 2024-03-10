@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=my_icon.ico my_script.py
